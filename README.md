@@ -1,1 +1,1 @@
-# Richy
+# richy.github.io
